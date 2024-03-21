@@ -1,5 +1,7 @@
-# GYUSEON 😎
-
+<div align="center"> 
+  
+# GYUSEON25  😎
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opp5592)](https://solved.ac/opp5592/)
 
 ## STUDY
@@ -12,7 +14,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
+</div>
 
 <!--
 **gyuseon25/gyuseon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

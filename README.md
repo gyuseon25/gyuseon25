@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# GYUSEON25  😎
+# GYUSEON  😎
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opp5592)](https://solved.ac/opp5592/)
 

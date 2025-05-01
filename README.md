@@ -47,7 +47,7 @@
 |<a href="https://github.com/K-scrum-team-5/kscrum-server">MovieStagram</a>|영화 취향, 북마크한 영화를 기반으로 사용자에 맞는 영화를 추천하는 웹 서비스|24.04.03 ~ 24.06.05|
 |<a href="https://github.com/KSEB-SmartCar-B/dororok-BE">도로록</a>|T.P.O를 실시간으로 고려하여 개인 맞춤형 음악 및 장소를 추천하는 네비게이션 앱|24.07.08 ~ 24.08.29|
 |<a href="https://github.com/AdoongE/BE">Seedzip</a>|유용한 디지털 정보를 한 곳에 저장하고, 필요할때 찾아볼 수 있는 아카이빙 서비스|24.08.01 ~ |
-|Solpli|혼자 방문하기 좋은 공간을 쉽고 감각적으로 탐색하는 맞춤형 지도 서비스|25.03.15 ~ |
+|<a href="https://github.com/Solepli/Solepli-backend">Solepli</a>|혼자 방문하기 좋은 공간을 쉽고 감각적으로 탐색하는 맞춤형 지도 서비스|25.03.15 ~ |
 
 
 
